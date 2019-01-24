@@ -1,6 +1,6 @@
 {
   "name": "@shazzner/alerts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Material-UI based snackbar alerts for Reactjs",
   "main": "alert.js",
   "scripts": {
