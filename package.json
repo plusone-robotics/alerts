@@ -1,0 +1,29 @@
+{
+  "name": "@shazzner/alerts",
+  "version": "1.0.0",
+  "description": "Material-UI based snackbar alerts for Reactjs",
+  "main": "alert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusone-robotics/alerts.git"
+  },
+  "keywords": [
+    "material-ui",
+    "alerts",
+    "reactjs"
+  ],
+  "author": "Chris Hardee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plusone-robotics/alerts/issues"
+  },
+  "homepage": "https://github.com/plusone-robotics/alerts#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "@material-ui/core": "^3.6.2",
+    "@material-ui/icons": "^3.0.1"
+  }
+}
